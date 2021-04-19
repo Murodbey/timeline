@@ -1,2 +1,2 @@
 # timeline
-ttps://murodbey.github.io/timeline/
+https://murodbey.github.io/timeline/
